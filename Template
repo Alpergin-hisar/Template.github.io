@@ -1,0 +1,9 @@
+your-repo/
+│
+├── index.html (Home)
+├── projects.html (Projects)
+├── swift.html (Develop in Swift)
+├── collegeboard.html (CollegeBoard)
+├── cs50.html (CS50)
+└── css/
+    └── styles.css (CSS for styling)
